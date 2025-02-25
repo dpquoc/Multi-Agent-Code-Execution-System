@@ -9,6 +9,12 @@ The **Multi-Agent Code Execution System** is designed to process user queries, g
 - **Controlled Execution**: If the code is deemed safe, an execution agent runs it in an isolated Docker environment.
 - **Error Handling & Feedback Loop**: The system follows a loop pattern to refine code in case of errors or issues.
 
+### Demo
+A quick demonstration of the system in action:
+
+[![Watch the video](https://raw.githubusercontent.com/dpquoc/Multi-Agent-Code-Execution-System/main/media/demo.jpg)](https://github.com/dpquoc/Multi-Agent-Code-Execution-System/blob/main/media/demo.mp4?raw=true)
+
+
 ## Architecture
 
 ![Architecture](media/architecture.png)
