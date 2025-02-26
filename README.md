@@ -12,7 +12,7 @@ The **Multi-Agent Code Execution System** is designed to process user queries, g
 ### Demo
 A quick demonstration of the system in action:
 
-[![Watch the video](https://raw.githubusercontent.com/dpquoc/Multi-Agent-Code-Execution-System/main/media/demo.jpg)](https://github.com/dpquoc/Multi-Agent-Code-Execution-System/blob/main/media/demo.mp4?raw=true)
+[![Watch the video](https://raw.githubusercontent.com/dpquoc/Multi-Agent-Code-Execution-System/main/media/demo.jpg)](https://streamable.com/isa0xh)
 
 
 ## Architecture
